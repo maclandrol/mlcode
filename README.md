@@ -1,4 +1,4 @@
 # mlcode
-A collection of poorly written but functional learning code.
-This include dropout, pca and gaussian mixture models
+A collection of poorly written but functional machine learning code.
+This include dropout, pca and gaussian mixture models all written over the theano library.
 
